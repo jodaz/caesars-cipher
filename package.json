@@ -1,0 +1,15 @@
+{
+  "name": "caesars-cipher",
+  "version": "1.0.0",
+  "description": "Caesars cipher algorithm for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "freeCodeCamp"
+  ],
+  "author": "Jesus Ordosgoitty",
+  "license": "MIT"
+}
