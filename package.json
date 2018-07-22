@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "debug": "node debug.js"
+    "convert": "node debug.js"
   },
   "keywords": [
     "javascript",
