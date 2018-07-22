@@ -4,7 +4,8 @@
   "description": "Caesars cipher algorithm for freeCodeCamp",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "debug": "node debug.js"
   },
   "keywords": [
     "javascript",
