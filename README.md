@@ -14,4 +14,4 @@ Caesar cipher uses the ROT13 cipher. The values of the letters are shifted by 13
 
 ## To try it
 
-Just do `npm run conver "HELLO WORLD!"`.
+Just do `npm run convert "HELLO WORLD!"`.
